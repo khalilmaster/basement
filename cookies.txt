@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+shop.basementbeast.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+shop.basementbeast.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_5dc56ecd8fffc5830754f5dc0bff8c61	42278966f66fe79ff14c435182645d34%7C%7C1666578816%7C%7C1666575216%7C%7Cfcfbbae22486289736793aa3867024fd
+shop.basementbeast.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	390e876c3df11dba1ffc28d586831018
+shop.basementbeast.com	TRUE	/	FALSE	1999999999	ia_leadsource	shop.basementbeast.com
+

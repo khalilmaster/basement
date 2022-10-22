@@ -1,0 +1,137 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 21 Oct 2022 19:33:05 at https://shop.basementbeast.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f0#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://shop.basementbeast.com -O1 "C:\My Web Sites\basement" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:34:11	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://shop.basementbeast.com/)
+19:34:27	Warning: 	Moved Permanently for https://shop.basementbeast.com/product-category/supplements/
+19:34:27	Warning: 	File has moved from https://shop.basementbeast.com/product-category/supplements/ to /supplements/
+19:34:38	Warning: 	Moved Permanently for https://shop.basementbeast.com/product/triple-t-stack/
+19:34:38	Warning: 	File has moved from https://shop.basementbeast.com/product/triple-t-stack/ to /supplements/triple-t-stack/
+19:34:38	Warning: 	Moved Permanently for https://shop.basementbeast.com/product/triple-t-reset/
+19:34:38	Warning: 	File has moved from https://shop.basementbeast.com/product/triple-t-reset/ to /supplements/triple-t-reset/
+19:34:39	Warning: 	Moved Permanently for https://shop.basementbeast.com/product/beast-greens/
+19:34:39	Warning: 	File has moved from https://shop.basementbeast.com/product/beast-greens/ to /supplements/beast-greens/
+19:34:46	Warning: 	Moved Permanently for https://shop.basementbeast.com/product/turmeric/
+19:34:46	Warning: 	File has moved from https://shop.basementbeast.com/product/turmeric/ to /supplements/turmeric/
+19:34:58	Warning: 	Moved Permanently for https://shop.basementbeast.com/product/krill-omega/
+19:34:58	Warning: 	File has moved from https://shop.basementbeast.com/product/krill-omega/ to /supplements/krill-omega/
+19:35:04	Warning: 	Moved Permanently for https://shop.basementbeast.com/product/ashwagandha/
+19:35:04	Warning: 	File has moved from https://shop.basementbeast.com/product/ashwagandha/ to /supplements/ashwagandha/
+19:37:15	Error: 	"Bad Request" (400) at link https://shop.basementbeast.com/wp-admin/admin-ajax.php (from https://shop.basementbeast.com/)
+19:37:16	Error: 	"Not Found" (404) at link https://shop.basementbeast.com/wp-content/themes/gota/images/icon-mail.png (from https://shop.basementbeast.com/wp-content/themes/gota/css/theme.css?ver=1666405986)
+19:37:18	Warning: 	Moved Permanently for https://shop.basementbeast.com/?p=119
+19:37:18	Warning: 	File has moved from https://shop.basementbeast.com/?p=119 to https://shop.basementbeast.com/my-account/
+19:37:18	Error: 	"Not Found" (404) at link https://shop.basementbeast.com/img/bg.jpg (from https://shop.basementbeast.com/my-account/)
+19:37:22	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link https://woocommerce-575985-1862448.cloudwaysapps.com/wp-content/uploads/2021/04/money_back_guarantee.png (from https://shop.basementbeast.com/product/beast-pump/)
+19:37:22	Warning: 	Moved Permanently for https://shop.basementbeast.com/?p=157505
+19:37:22	Warning: 	File has moved from https://shop.basementbeast.com/?p=157505 to https://shop.basementbeast.com/product/beast-pump/
+19:37:22	Error: 	"Not Found" (404) at link https://shop.basementbeast.com/product/img/bg.jpg (from https://shop.basementbeast.com/product/beast-pump/)
+19:37:28	Error: 	"Forbidden" (403) at link https://www.codehim.com/demo/jquery-zoom-image-carousel/images/next-icon.png (from https://shop.basementbeast.com/product/beast-pump/)
+19:38:04	Warning: 	Moved Permanently for https://shop.basementbeast.com/?p=157423
+19:38:04	Warning: 	File has moved from https://shop.basementbeast.com/?p=157423 to https://shop.basementbeast.com/product/mobility-formula/
+19:38:21	Warning: 	Moved Permanently for https://shop.basementbeast.com/?p=157209
+19:38:21	Warning: 	File has moved from https://shop.basementbeast.com/?p=157209 to https://shop.basementbeast.com/product/daily-multivitamin/
+19:39:03	Warning: 	Moved Permanently for https://shop.basementbeast.com/?p=3356
+19:39:03	Warning: 	File has moved from https://shop.basementbeast.com/?p=3356 to https://shop.basementbeast.com/product/resistance-bands-set/
+19:39:23	Error: 	"Not Found" (404) at link https://shop.basementbeast.com/product-category/img/bg.jpg (from https://shop.basementbeast.com/product-category/workout-gear/)
+19:39:45	Warning: 	Moved Permanently for https://shop.basementbeast.com/?p=153303
+19:39:45	Warning: 	File has moved from https://shop.basementbeast.com/?p=153303 to https://shop.basementbeast.com/product/door-anchor/
+19:39:49	Warning: 	Moved Permanently for https://shop.basementbeast.com/?p=3375
+19:39:49	Warning: 	File has moved from https://shop.basementbeast.com/?p=3375 to https://shop.basementbeast.com/product/light-yellow-band/
+19:40:07	Warning: 	Moved Permanently for https://shop.basementbeast.com/?p=3372
+19:40:07	Warning: 	File has moved from https://shop.basementbeast.com/?p=3372 to https://shop.basementbeast.com/product/medium-red-band/
+19:40:13	Warning: 	Moved Permanently for https://shop.basementbeast.com/?p=3369
+19:40:13	Warning: 	File has moved from https://shop.basementbeast.com/?p=3369 to https://shop.basementbeast.com/product/heavy-purple-band/
+19:40:17	Warning: 	Moved Permanently for https://shop.basementbeast.com/?p=3360
+19:40:17	Warning: 	File has moved from https://shop.basementbeast.com/?p=3360 to https://shop.basementbeast.com/product/x-heavy-green-band/
+19:40:21	Warning: 	Moved Permanently for https://shop.basementbeast.com/?p=3379
+19:40:21	Warning: 	File has moved from https://shop.basementbeast.com/?p=3379 to https://shop.basementbeast.com/product/yoga-bands-set/
+19:40:26	Warning: 	Moved Permanently for https://shop.basementbeast.com/?p=3400
+19:40:26	Warning: 	File has moved from https://shop.basementbeast.com/?p=3400 to https://shop.basementbeast.com/product/og-tshirt/
+19:40:26	Warning: 	Moved Permanently for https://shop.basementbeast.com/?p=7130
+19:40:26	Warning: 	File has moved from https://shop.basementbeast.com/?p=7130 to https://shop.basementbeast.com/product/the-boom-nice-t-shirt/
+19:40:26	Warning: 	Moved Permanently for https://shop.basementbeast.com/?p=160138
+19:40:26	Warning: 	File has moved from https://shop.basementbeast.com/?p=160138 to https://shop.basementbeast.com/account/
+19:40:26	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://woocommerce-575985-1862448.cloudwaysapps.com/wp-content/uploads/2021/04/money_back_guarantee.png (from https://shop.basementbeast.com/product/beast-pump/)
+19:40:26	Warning: 	Moved Permanently for https://shop.basementbeast.com/?p=4478
+19:40:26	Warning: 	File has moved from https://shop.basementbeast.com/?p=4478 to https://shop.basementbeast.com/supplements/
+19:40:27	Warning: 	Moved Permanently for https://shop.basementbeast.com/?p=4522
+19:40:27	Warning: 	File has moved from https://shop.basementbeast.com/?p=4522 to https://shop.basementbeast.com/supplements/triple-t-stack/
+19:40:27	Error: 	"Not Found" (404) at link https://shop.basementbeast.com/supplements/img/bg.jpg (from https://shop.basementbeast.com/supplements/triple-t-stack/)
+19:40:30	Warning: 	Moved Permanently for https://shop.basementbeast.com/?p=4641
+19:40:30	Warning: 	File has moved from https://shop.basementbeast.com/?p=4641 to https://shop.basementbeast.com/supplements/triple-t-reset/
+19:40:34	Warning: 	Moved Permanently for https://shop.basementbeast.com/?p=4710
+19:40:34	Warning: 	File has moved from https://shop.basementbeast.com/?p=4710 to https://shop.basementbeast.com/supplements/beast-greens/
+19:40:37	Warning: 	Moved Permanently for https://shop.basementbeast.com/?p=3597
+19:40:37	Warning: 	File has moved from https://shop.basementbeast.com/?p=3597 to https://shop.basementbeast.com/supplements/turmeric/
+19:40:40	Warning: 	Moved Permanently for https://shop.basementbeast.com/?p=5448
+19:40:40	Warning: 	File has moved from https://shop.basementbeast.com/?p=5448 to https://shop.basementbeast.com/supplements/krill-omega/
+19:40:43	Warning: 	Moved Permanently for https://shop.basementbeast.com/?p=5414
+19:40:43	Warning: 	File has moved from https://shop.basementbeast.com/?p=5414 to https://shop.basementbeast.com/supplements/ashwagandha/
+19:40:46	Error: 	"Not Found" (404) at link https://shop.basementbeast.com/product-tag/img/bg.jpg (from https://shop.basementbeast.com/product-tag/resistance-bands/)
+19:40:52	Warning: 	Moved Permanently for https://shop.basementbeast.com/?p=109
+19:40:52	Warning: 	File has moved from https://shop.basementbeast.com/?p=109 to https://shop.basementbeast.com/cart/
+19:40:52	Warning: 	Found for https://shop.basementbeast.com/cart/?remove_item=f76ab4fd73e0d135afb0e46ced434a8a&_wpnonce=c94d037723
+19:40:52	Warning: 	File has moved from https://shop.basementbeast.com/cart/?remove_item=f76ab4fd73e0d135afb0e46ced434a8a&_wpnonce=c94d037723 to http://shop.basementbeast.com/cart/?removed_item=1
+19:40:52	Warning: 	Found for https://shop.basementbeast.com/cart/?remove_item=8fce492e639e9132dbc8adaff2e70ec7&_wpnonce=c94d037723
+19:40:52	Warning: 	File has moved from https://shop.basementbeast.com/cart/?remove_item=8fce492e639e9132dbc8adaff2e70ec7&_wpnonce=c94d037723 to http://shop.basementbeast.com/cart/?removed_item=1
+19:40:54	Warning: 	Found for https://shop.basementbeast.com/cart/?remove_item=a07b0eac6152ede5509970c9c22818b2&_wpnonce=c94d037723
+19:40:54	Warning: 	File has moved from https://shop.basementbeast.com/cart/?remove_item=a07b0eac6152ede5509970c9c22818b2&_wpnonce=c94d037723 to http://shop.basementbeast.com/cart/?removed_item=1
+19:40:54	Warning: 	Found for https://shop.basementbeast.com/cart/?remove_item=e89febc2bf9125b87242ae5105e0159a&_wpnonce=c94d037723
+19:40:54	Warning: 	File has moved from https://shop.basementbeast.com/cart/?remove_item=e89febc2bf9125b87242ae5105e0159a&_wpnonce=c94d037723 to http://shop.basementbeast.com/cart/?removed_item=1
+19:40:55	Warning: 	Found for https://shop.basementbeast.com/cart/?remove_item=1ab8833203078b7330424937b54b303e&_wpnonce=c94d037723
+19:40:55	Warning: 	File has moved from https://shop.basementbeast.com/cart/?remove_item=1ab8833203078b7330424937b54b303e&_wpnonce=c94d037723 to http://shop.basementbeast.com/cart/?removed_item=1
+19:40:56	Warning: 	Found for https://shop.basementbeast.com/cart/?remove_item=2b81ef0514c5e112570415f0fc659052&_wpnonce=c94d037723
+19:40:56	Warning: 	File has moved from https://shop.basementbeast.com/cart/?remove_item=2b81ef0514c5e112570415f0fc659052&_wpnonce=c94d037723 to http://shop.basementbeast.com/cart/?removed_item=1
+19:40:56	Warning: 	Found for https://shop.basementbeast.com/cart/?remove_item=92a2c86071515a1e58075b02b664b016&_wpnonce=c94d037723
+19:40:56	Warning: 	File has moved from https://shop.basementbeast.com/cart/?remove_item=92a2c86071515a1e58075b02b664b016&_wpnonce=c94d037723 to http://shop.basementbeast.com/cart/?removed_item=1
+19:40:56	Warning: 	Found for https://shop.basementbeast.com/cart/?remove_item=6db8b47baa4665e561fef7b6750187da&_wpnonce=c94d037723
+19:40:56	Warning: 	File has moved from https://shop.basementbeast.com/cart/?remove_item=6db8b47baa4665e561fef7b6750187da&_wpnonce=c94d037723 to http://shop.basementbeast.com/cart/?removed_item=1
+19:40:56	Warning: 	Found for https://shop.basementbeast.com/cart/?remove_item=20fd5a9fc7fb0bc4c656e10827d35def&_wpnonce=c94d037723
+19:40:56	Warning: 	File has moved from https://shop.basementbeast.com/cart/?remove_item=20fd5a9fc7fb0bc4c656e10827d35def&_wpnonce=c94d037723 to http://shop.basementbeast.com/cart/?removed_item=1
+19:40:56	Warning: 	Found for https://shop.basementbeast.com/cart/?remove_item=d342e3ad5a01eab7210e0e6e34f1d3a0&_wpnonce=c94d037723
+19:40:56	Warning: 	File has moved from https://shop.basementbeast.com/cart/?remove_item=d342e3ad5a01eab7210e0e6e34f1d3a0&_wpnonce=c94d037723 to http://shop.basementbeast.com/cart/?removed_item=1
+19:40:56	Warning: 	Found for https://shop.basementbeast.com/cart/?remove_item=d31976676e141679b5b1097cd1468478&_wpnonce=c94d037723
+19:40:56	Warning: 	File has moved from https://shop.basementbeast.com/cart/?remove_item=d31976676e141679b5b1097cd1468478&_wpnonce=c94d037723 to http://shop.basementbeast.com/cart/?removed_item=1
+19:41:08	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://woocommerce-575985-1862448.cloudwaysapps.com/wp-content/uploads/2021/04/money_back_guarantee.png (from https://shop.basementbeast.com/product/beast-pump/)
+19:41:10	Warning: 	Moved Permanently for shop.basementbeast.com/robots.txt
+19:41:10	Warning: 	Redirected link is identical because of 'URL Hack' option: shop.basementbeast.com/robots.txt and https://shop.basementbeast.com/robots.txt
+19:41:10	Warning: 	Warning moved treated for shop.basementbeast.com/robots.txt (real one is https://shop.basementbeast.com/robots.txt)
+19:41:10	Warning: 	Moved Permanently for shop.basementbeast.com/cart/?removed_item=1
+19:41:10	Warning: 	Redirected link is identical because of 'URL Hack' option: shop.basementbeast.com/cart/?removed_item=1 and https://shop.basementbeast.com/cart/?removed_item=1
+19:41:10	Warning: 	File has moved from shop.basementbeast.com/cart/?removed_item=1 to https://shop.basementbeast.com/cart/?removed_item=1
+19:41:10	Warning: 	Found for https://shop.basementbeast.com/cart/?undo_item=f76ab4fd73e0d135afb0e46ced434a8a&_wpnonce=c94d037723
+19:41:10	Warning: 	File has moved from https://shop.basementbeast.com/cart/?undo_item=f76ab4fd73e0d135afb0e46ced434a8a&_wpnonce=c94d037723 to http://shop.basementbeast.com/product/beast-pump/?attribute_bottle=30-day+Autoship&convert_to_sub_157505=1_month
+19:41:11	Warning: 	Found for https://shop.basementbeast.com/cart/?undo_item=a07b0eac6152ede5509970c9c22818b2&_wpnonce=c94d037723
+19:41:11	Warning: 	File has moved from https://shop.basementbeast.com/cart/?undo_item=a07b0eac6152ede5509970c9c22818b2&_wpnonce=c94d037723 to http://shop.basementbeast.com/product/mobility-formula/?attribute_bottle=One+Time&convert_to_sub_157423=0
+19:41:11	Warning: 	Found for https://shop.basementbeast.com/cart/?undo_item=e89febc2bf9125b87242ae5105e0159a&_wpnonce=c94d037723
+19:41:11	Warning: 	File has moved from https://shop.basementbeast.com/cart/?undo_item=e89febc2bf9125b87242ae5105e0159a&_wpnonce=c94d037723 to http://shop.basementbeast.com/product/daily-multivitamin/?attribute_bottle=Six&convert_to_sub_157209=0
+19:41:11	Warning: 	Found for https://shop.basementbeast.com/cart/?undo_item=1ab8833203078b7330424937b54b303e&_wpnonce=c94d037723
+19:41:11	Warning: 	File has moved from https://shop.basementbeast.com/cart/?undo_item=1ab8833203078b7330424937b54b303e&_wpnonce=c94d037723 to http://shop.basementbeast.com/product/daily-multivitamin/?attribute_bottle=Six&convert_to_sub_157209=0
+19:41:18	Warning: 	Moved Permanently for https://shop.basementbeast.com/?p=111
+19:41:18	Warning: 	File has moved from https://shop.basementbeast.com/?p=111 to https://shop.basementbeast.com/checkout/
+19:41:18	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://woocommerce-575985-1862448.cloudwaysapps.com/wp-content/uploads/2021/03/Logo_2_-_Black.png (from https://shop.basementbeast.com/checkout/)
+19:41:18	Warning: 	Found for https://shop.basementbeast.com/cart/?undo_item=6db8b47baa4665e561fef7b6750187da&_wpnonce=c94d037723
+19:41:18	Warning: 	File has moved from https://shop.basementbeast.com/cart/?undo_item=6db8b47baa4665e561fef7b6750187da&_wpnonce=c94d037723 to http://shop.basementbeast.com/checkout/
+19:41:18	Warning: 	Found for https://shop.basementbeast.com/cart/?undo_item=d31976676e141679b5b1097cd1468478&_wpnonce=c94d037723
+19:41:18	Warning: 	File has moved from https://shop.basementbeast.com/cart/?undo_item=d31976676e141679b5b1097cd1468478&_wpnonce=c94d037723 to http://shop.basementbeast.com/checkout/
+19:41:22	Warning: 	Moved Permanently for shop.basementbeast.com/product/beast-pump/?attribute_bottle=30-day+Autoship%26convert_to_sub_157505=1_month
+19:41:22	Warning: 	Redirected link is identical because of 'URL Hack' option: shop.basementbeast.com/product/beast-pump/?attribute_bottle=30-day+Autoship%26convert_to_sub_157505=1_month and https://shop.basementbeast.com/product/beast-pump/?attribute_bottle=30-day+Autoship%26convert_to_sub_157505=1_month
+19:41:22	Warning: 	File has moved from shop.basementbeast.com/product/beast-pump/?attribute_bottle=30-day+Autoship%26convert_to_sub_157505=1_month to https://shop.basementbeast.com/product/beast-pump/?attribute_bottle=30-day+Autoship%26convert_to_sub_157505=1_month
+19:41:22	Warning: 	Moved Permanently for shop.basementbeast.com/product/mobility-formula/?attribute_bottle=One+Time%26convert_to_sub_157423=0
+19:41:22	Warning: 	Redirected link is identical because of 'URL Hack' option: shop.basementbeast.com/product/mobility-formula/?attribute_bottle=One+Time%26convert_to_sub_157423=0 and https://shop.basementbeast.com/product/mobility-formula/?attribute_bottle=One+Time%26convert_to_sub_157423=0
+19:41:22	Warning: 	File has moved from shop.basementbeast.com/product/mobility-formula/?attribute_bottle=One+Time%26convert_to_sub_157423=0 to https://shop.basementbeast.com/product/mobility-formula/?attribute_bottle=One+Time%26convert_to_sub_157423=0
+19:41:22	Warning: 	Moved Permanently for shop.basementbeast.com/product/daily-multivitamin/?attribute_bottle=Six%26convert_to_sub_157209=0
+19:41:22	Warning: 	Redirected link is identical because of 'URL Hack' option: shop.basementbeast.com/product/daily-multivitamin/?attribute_bottle=Six%26convert_to_sub_157209=0 and https://shop.basementbeast.com/product/daily-multivitamin/?attribute_bottle=Six%26convert_to_sub_157209=0
+19:41:22	Warning: 	File has moved from shop.basementbeast.com/product/daily-multivitamin/?attribute_bottle=Six%26convert_to_sub_157209=0 to https://shop.basementbeast.com/product/daily-multivitamin/?attribute_bottle=Six%26convert_to_sub_157209=0
+19:41:22	Error: 	"Not Found" (404) at link https://shop.basementbeast.com/wp-content/plugins/checkout-for-woocommerce/assets/dist/img/flags.png (from https://shop.basementbeast.com/wp-content/plugins/checkout-for-woocommerce/assets/dist/css/checkoutwc-front-6.2.4.min.css?ver=6.0.3)
+19:41:22	Error: 	"Not Found" (404) at link https://shop.basementbeast.com/wp-content/plugins/checkout-for-woocommerce/assets/dist/img/flags@2x.png (from https://shop.basementbeast.com/wp-content/plugins/checkout-for-woocommerce/assets/dist/css/checkoutwc-front-6.2.4.min.css?ver=6.0.3)
+19:41:22	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://woocommerce-575985-1862448.cloudwaysapps.com/wp-content/uploads/2021/03/Logo_2_-_Black.png (from https://shop.basementbeast.com/checkout/)
+19:41:22	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://woocommerce-575985-1862448.cloudwaysapps.com/wp-content/uploads/2021/03/Logo_2_-_Black.png (from https://shop.basementbeast.com/checkout/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 17 seconds : 1112 links scanned, 1041 files written (170805964 bytes overall), 1041 files updated [64502687 bytes received at 129784 bytes/sec], 131523962 bytes transferred using HTTP compression in 831 files, ratio 16%, 18.7 requests per connection
+(13 errors, 113 warnings, 0 messages)

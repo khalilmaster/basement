@@ -1,0 +1,2 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+19:32:25	146/146	---M-Z	200	added ('OK')	text/plain	date:Sat,%2022%20Oct%202022%2002:32:24%20GMT	https://shop.basementbeast.com/robots.txt		(from )
